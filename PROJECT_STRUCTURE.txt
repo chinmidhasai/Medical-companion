@@ -1,0 +1,24 @@
+medical_companion_capstone/
+├── app.py
+├── requirements.txt
+├── README.md
+├── .env.example
+├── data/                       # SQLite database created on first run
+├── static/
+│   ├── style.css
+│   └── uploads/                # Uploaded files stored here
+└── templates/
+    ├── base.html
+    ├── index.html
+    ├── register.html
+    ├── login.html
+    ├── patient_dashboard.html
+    ├── caregiver_dashboard.html
+    ├── caregiver_patient.html
+    ├── profile.html
+    ├── prescriptions.html
+    ├── medicines.html
+    ├── medicine_form.html
+    ├── agent.html
+    ├── hospitals.html
+    └── error.html
